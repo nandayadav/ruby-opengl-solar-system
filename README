@@ -1,0 +1,6 @@
+#Simple Animation in Ruby using ruby-opengl gem
+#gem install ruby-opengl to install the gem
+ruby solarsystem.rb (to execute the animation)
+press y(to start rotation)
+press n(to pause)
+Esc (to quit)
